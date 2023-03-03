@@ -1,0 +1,27 @@
+---
+title: "1st-repo"
+author: "Stephen McMurray"
+date: "2023-03-03"
+output: html_document
+---
+
+```
+MY 1ST PROJECT
+
+FOR PRACTICING USING GITHUB 
+
+```
+
+```
+THIS IS MY 1ST PRAGHARPH
+
+```
+
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+
+
+`
